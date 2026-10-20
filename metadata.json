@@ -1,0 +1,6 @@
+{
+  "name": "AuraWave Audio Studio",
+  "description": "Professional browser-based audio workstation with local Web Audio API processing: trim, volume, speed, pitch, 7-band EQ, reverse, voice recorder, audio joiner, and MP3/WAV/OGG converter.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
